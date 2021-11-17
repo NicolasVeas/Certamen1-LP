@@ -1,4 +1,4 @@
-vvvvvv# Certamen1-LP
+# Certamen1-LP
 
 
 ## Para ejecutar el programa debe escribir siguiente en la terminal de trabajo:
