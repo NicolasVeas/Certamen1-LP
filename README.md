@@ -21,4 +21,4 @@
 
 ------------------------------------------------------------------
 #### M0 sirve para mostrar los elementos creados en la Red de Petri.
-
+#### Trabajos con ID (INT), reemplazando el Nombre(char) en este trabajo.
