@@ -19,5 +19,6 @@ vvvvvv# Certamen1-LP
 #### A = 20,10
 #### M0
 
+------------------------------------------------------------------
 #### M0 sirve para mostrar los elementos creados en la Red de Petri.
 
